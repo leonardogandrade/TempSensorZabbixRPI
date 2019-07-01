@@ -19,7 +19,7 @@ The motivation to create a circuit and no simply buy a commercial one from the i
 
 ## SCHEMATIC
 
-![GitHub Logo](https://github.com/generalAndrade/tempSensorZabbixRPI/blob/master/img/schematic.png)
+![GitHub Logo](https://github.com/leonardogandrade/TempSensorZabbixRPI/blob/master/img/schematic.png)
 
 ** In this case we are using GPIO15.
 
